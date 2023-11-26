@@ -1,0 +1,37 @@
+.but {
+  border-radius: 2px;
+  height: 40%;
+  width:16%;
+  text-align: center;
+  padding: 10px;
+  margin: 8px;
+  font-size: x-large;
+}
+.bute{
+  border-radius: 2px;
+  background-color: rgba(237, 41, 41, 0.599);
+  height: 40%;
+  width:20%;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-size: x-large;
+}
+#DEL{
+  border-radius: 2px;
+  background-color: rgba(126, 110, 110, 0.599);
+  height: 40%;
+  width:25%;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  font-size: x-large;
+}
+.incal{
+  font-size: x-large;
+  font-weight: bolder;
+  border-color: black;
+  width: 75%;
+  margin: 40px;
+  padding: 10px;
+}

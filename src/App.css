@@ -1,0 +1,8 @@
+#Calci{
+  background-color: rgba(218, 233, 233, 0.471);
+  border:1px solid black;
+  height: 75vh;
+  width: 40vh;
+  overflow: hidden;
+  box-shadow:3px 3px 10px black;
+}
